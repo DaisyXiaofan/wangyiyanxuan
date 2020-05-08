@@ -1,4 +1,4 @@
-# wangyiyanxuan_project
+# wangyiyanxuan
 
 ## Project setup
 ```
